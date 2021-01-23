@@ -1,0 +1,22 @@
+{
+  "name": "aws-s3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zabhitak/awsS3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zabhitak/awsS3/issues"
+  },
+  "homepage": "https://github.com/zabhitak/awsS3#readme",
+  "dependencies": {
+    "aws-sdk": "^2.831.0"
+  }
+}
